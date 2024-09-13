@@ -31,7 +31,7 @@ The project involved aggregating data from over 300,000 recipes, applying thorou
 - **Data Cleaning & Preprocessing**: pandas, nltk (for lemmatization), regular expressions
 
 # Data Source
-I have included raw files in the repository. Below is a link to the original source of the datasets.
+Below is a link to the original source of the datasets.
 
 **Link**: https://eightportions.com/datasets/Recipes/
 
